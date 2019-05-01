@@ -1,2 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono|Roboto:400,100,300,500,700,300italic|Roboto+Condensed:300,400,700|Roboto+Slab:400,700&amp;subset=latin,latin-ext);
 
+.jumbotron {
+    color: #000;
+    background-color: rgb(238, 238, 238);
+}
