@@ -35,6 +35,8 @@ p {
   animation: animate 3s linear infinite;
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
+   border-style: inset;
+
 }
 
 @keyframes animate {
